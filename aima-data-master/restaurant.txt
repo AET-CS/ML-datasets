@@ -18,4 +18,4 @@ Features:
 
 Target:
 
-11. WillWait: whether the authors wait for a table at a restaurant
+11. WillWait: whether we decide to wait for a table
