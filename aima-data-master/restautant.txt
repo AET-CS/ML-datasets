@@ -1,0 +1,21 @@
+Source: Artificial Intelligence, A Modern Approach by Russell and Norvig
+
+Description: A short survey of the factors which contribute to whether the authors
+will wait for a table at a restaurant, or will leave for a different location.
+
+Features:
+
+1. Alternate: whether there is a suitable alternative restaurant nearby.
+2. Bar : whether the restaurant has a comfortable bar area to wait in.
+3. Fri/Sat: true on Fridays and Saturdays.
+4. Hungry: whether we are hungry.
+5. Patrons: how many people are in the restaurant (values are None, Some, and Full).
+6. Price: the restaurant’s price range ($, $$, $$$).
+7. Raining: whether it is raining outside.
+8. Reservation: whether we made a reservation.
+9. Type: the kind of restaurant (French, Italian, Thai, or burger).
+10. WaitEstimate: the wait estimated by the host (0–10 minutes, 10–30, 30–60, or >60)
+
+Target:
+
+11. WillWait: whether the authors wait for a table at a restaurant
